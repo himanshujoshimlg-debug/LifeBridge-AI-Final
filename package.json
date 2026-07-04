@@ -1,0 +1,9 @@
+{
+  "name": "life-bridge-ai",
+  "version": "1.0.0",
+  "description": "Life Bridge AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

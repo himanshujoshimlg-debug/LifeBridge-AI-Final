@@ -3,7 +3,7 @@
 # 🚨 LifeBridge AI
 ### Intelligent Emergency Response & Disaster Management Platform
 ---
-### Cloud-Native Enterprise Learning, Skill Management & Workforce Development Platform
+### AI-Powered Emergency Response, Disaster Management & Community Safety Platform
 ---
 
 <p align="center">
